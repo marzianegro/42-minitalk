@@ -1,4 +1,4 @@
-# *minitalk()
+# *minitalk*
 
 ## Description
 This project is a small client-server communication program that involves signal handling. The goal is to create a server and a client that can exchange messages using a minimalistic protocol.
